@@ -1,3 +1,5 @@
+-- obrigado por você dar o seu IP para nós! Seu pais, sua localização, e já já seu CPF
+
 local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/phgs-oficial/Slateste/refs/heads/main/Redzhubui.lua"))()
 
 local Window = Libary:MakeWindow({
